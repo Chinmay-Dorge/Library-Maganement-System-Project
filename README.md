@@ -7,7 +7,7 @@
 3. NOTE: System may contain some error/bugs (may be unresolved at the time of submission) that might lead to improper behavior of the executible. 
 
 
-#Contributors
+# Contributors
  Chinmay Dorge
  Gyanendra Gupta 
  Dhruv Rajak
