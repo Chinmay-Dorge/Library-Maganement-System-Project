@@ -8,7 +8,7 @@
 
 
 # Contributors
- Chinmay Dorge
- Gyanendra Gupta 
- Dhruv Rajak
- Khush Wasnik
+1.Chinmay Dorge
+2.Gyanendra Gupta 
+3.Dhruv Rajak
+4.Khush Wasnik
